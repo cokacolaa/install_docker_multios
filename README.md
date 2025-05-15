@@ -3,7 +3,7 @@
 
 ### Install docker engine,docker-compose :
 ```
-git clone https://github.com/dylansysops/install_docker_multios.git && cd ./install_docker_multios && sudo chmod +x ./install_docker.sh && sudo ./install_docker.sh -y
+git clone https://github.com/cokacolaa/install_docker_multios.git && cd ./install_docker_multios && sudo chmod +x ./install_docker.sh && sudo ./install_docker.sh -y
 ```
 
 ### Install New Portainer :
